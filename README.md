@@ -10,11 +10,12 @@
 
 
 
+
+
 ## Emoji Collection
 
 | Name | Emoji |
 |------|-------|
-| :.DS_Store: | <img src="emojis/.DS_Store" alt=".DS_Store" width="64"> |
 | :100: | <img src="emojis/100.png" alt="100" width="64"> |
 | :acknowledged: | <img src="emojis/acknowledged.jpg" alt="acknowledged" width="64"> |
 | :afk: | <img src="emojis/afk.png" alt="afk" width="64"> |

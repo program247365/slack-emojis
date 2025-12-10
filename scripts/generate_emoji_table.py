@@ -17,8 +17,8 @@ def generate_emoji_table():
         print("Error: emojis directory not found")
         return ""
 
-    # Get all files in emojis directory
-    emoji_files = sorted([f for f in emojis_dir.iterdir() if f.is_file()])
+    # Get all files in emojis directory, excluding .DS_Store and hidden files
+    emoji_files = sorted([f for f in emojis_dir.iterdir() if f.is_file() and f.name != '.DS_Store' and not f.name.startswith('.')])
 
     if not emoji_files:
         return ""
@@ -51,8 +51,8 @@ def update_readme():
         print("Error: README.md not found")
         return
 
-    # Count emoji files
-    emoji_count = len([f for f in emojis_dir.iterdir() if f.is_file()])
+    # Count emoji files, excluding .DS_Store and hidden files
+    emoji_count = len([f for f in emojis_dir.iterdir() if f.is_file() and f.name != '.DS_Store' and not f.name.startswith('.')])
 
     # Read current README
     with open(readme_path, 'r') as f:
