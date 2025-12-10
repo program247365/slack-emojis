@@ -15,6 +15,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -51,7 +52,6 @@
 | `:feelsgood:` | <img src="emojis/feelsgood.png" alt="feelsgood" width="64"> |
 | `:gandalf-nod:` | <img src="emojis/gandalf-nod.gif" alt="gandalf-nod" width="64"> |
 | `:gandalf-parrot:` | <img src="emojis/gandalf-parrot.gif" alt="gandalf-parrot" width="64"> |
-| `:hacker-man:` | <img src="emojis/hacker-man.jpg" alt="hacker-man" width="64"> |
 | `:hackerman:` | <img src="emojis/hackerman.jpg" alt="hackerman" width="64"> |
 | `:high-five-animated:` | <img src="emojis/high-five-animated.gif" alt="high-five-animated" width="64"> |
 | `:hmmm-yes:` | <img src="emojis/hmmm-yes.gif" alt="hmmm-yes" width="64"> |
