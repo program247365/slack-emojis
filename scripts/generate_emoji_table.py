@@ -31,8 +31,8 @@ def generate_emoji_table():
     for emoji_file in emoji_files:
         # Get the name without extension
         name = emoji_file.stem
-        # Format name for display (replace dashes/underscores with spaces)
-        display_name = f":{name}:"
+        # Format name for display with backticks to prevent GitHub emoji rendering
+        display_name = f"`:{name}:`"
         # Create relative path for markdown
         emoji_path = f"emojis/{emoji_file.name}"
         # Add row to table with HTML img tag for consistent sizing
@@ -87,7 +87,7 @@ def update_readme():
         f.write(new_content)
 
     # Verify the table was generated correctly
-    table_row_count = new_table.count("| :")
+    table_row_count = new_table.count("| `:")
 
     if table_row_count != emoji_count:
         print(f"⚠️  Warning: Mismatch detected!")
