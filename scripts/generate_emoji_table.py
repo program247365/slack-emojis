@@ -35,8 +35,8 @@ def generate_emoji_table():
         display_name = f":{name}:"
         # Create relative path for markdown
         emoji_path = f"emojis/{emoji_file.name}"
-        # Add row to table
-        table += f"| {display_name} | ![{name}]({emoji_path}) |\n"
+        # Add row to table with HTML img tag for consistent sizing
+        table += f'| {display_name} | <img src="{emoji_path}" alt="{name}" width="64"> |\n'
 
     return table
 
@@ -86,7 +86,19 @@ def update_readme():
     with open(readme_path, 'w') as f:
         f.write(new_content)
 
+    # Verify the table was generated correctly
+    table_row_count = new_table.count("| :")
+
+    if table_row_count != emoji_count:
+        print(f"⚠️  Warning: Mismatch detected!")
+        print(f"   Emoji files in directory: {emoji_count}")
+        print(f"   Emoji rows in table: {table_row_count}")
+        print(f"   Difference: {emoji_count - table_row_count} emojis missing from table")
+        return False
+
     print(f"✓ Updated README.md with {emoji_count} emojis")
+    print(f"✓ Verified: All {emoji_count} emojis are in the table")
+    return True
 
 
 if __name__ == "__main__":
