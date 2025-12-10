@@ -4,7 +4,63 @@ Generate emoji table for README.md
 Scans the emojis directory and creates a markdown table with name and emoji image.
 """
 import os
+import hashlib
 from pathlib import Path
+
+
+def check_for_duplicate_images():
+    """
+    Check for duplicate images in the emojis directory using MD5 hashing.
+    Returns True if no duplicates found, False if duplicates exist.
+    """
+    root_dir = Path(__file__).parent.parent
+    emojis_dir = root_dir / "emojis"
+
+    if not emojis_dir.exists():
+        print("Error: emojis directory not found")
+        return False
+
+    # Get all emoji files, excluding hidden files
+    emoji_files = [f for f in emojis_dir.iterdir() if f.is_file() and f.name != '.DS_Store' and not f.name.startswith('.')]
+
+    if not emoji_files:
+        return True
+
+    # Dictionary to store: {hash: [list of files with that hash]}
+    hash_map = {}
+
+    # Calculate MD5 hash for each file
+    for emoji_file in emoji_files:
+        md5_hash = hashlib.md5()
+
+        # Read file in chunks for memory efficiency (though not critical for small emoji files)
+        with open(emoji_file, 'rb') as f:
+            for chunk in iter(lambda: f.read(8192), b''):
+                md5_hash.update(chunk)
+
+        file_hash = md5_hash.hexdigest()
+
+        # Add file to hash map
+        if file_hash not in hash_map:
+            hash_map[file_hash] = []
+        hash_map[file_hash].append(emoji_file.name)
+
+    # Check for duplicates
+    duplicates_found = False
+    for file_hash, files in hash_map.items():
+        if len(files) > 1:
+            if not duplicates_found:
+                print("❌ Duplicate images detected!")
+                duplicates_found = True
+            print(f"   Hash {file_hash[:8]}... has {len(files)} copies:")
+            for filename in files:
+                print(f"     - {filename}")
+
+    if duplicates_found:
+        print("\n⚠️  Please remove duplicate images before committing.")
+        return False
+
+    return True
 
 
 def generate_emoji_table():
@@ -43,13 +99,17 @@ def generate_emoji_table():
 
 def update_readme():
     """Update README.md with the generated emoji table."""
+    # First check for duplicate images
+    if not check_for_duplicate_images():
+        return False
+
     root_dir = Path(__file__).parent.parent
     readme_path = root_dir / "README.md"
     emojis_dir = root_dir / "emojis"
 
     if not readme_path.exists():
         print("Error: README.md not found")
-        return
+        return False
 
     # Count emoji files, excluding .DS_Store and hidden files
     emoji_count = len([f for f in emojis_dir.iterdir() if f.is_file() and f.name != '.DS_Store' and not f.name.startswith('.')])
@@ -102,4 +162,7 @@ def update_readme():
 
 
 if __name__ == "__main__":
-    update_readme()
+    import sys
+    result = update_readme()
+    if result is False:
+        sys.exit(1)
