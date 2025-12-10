@@ -14,6 +14,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -58,7 +59,6 @@
 | `:i-see-what-you-did-there:` | <img src="emojis/i-see-what-you-did-there.jpg" alt="i-see-what-you-did-there" width="64"> |
 | `:interesting:` | <img src="emojis/interesting.gif" alt="interesting" width="64"> |
 | `:jammin-cat:` | <img src="emojis/jammin-cat.gif" alt="jammin-cat" width="64"> |
-| `:keanu-thanks:` | <img src="emojis/keanu-thanks.gif" alt="keanu-thanks" width="64"> |
 | `:kevin-r:` | <img src="emojis/kevin-r.png" alt="kevin-r" width="64"> |
 | `:kids:` | <img src="emojis/kids.png" alt="kids" width="64"> |
 | `:letsgo:` | <img src="emojis/letsgo.gif" alt="letsgo" width="64"> |
@@ -103,6 +103,7 @@
 | `:test-tube:` | <img src="emojis/test-tube.png" alt="test-tube" width="64"> |
 | `:thank-you:` | <img src="emojis/thank-you.jpg" alt="thank-you" width="64"> |
 | `:thanks-captain-america:` | <img src="emojis/thanks-captain-america.gif" alt="thanks-captain-america" width="64"> |
+| `:thanks-keanu:` | <img src="emojis/thanks-keanu.gif" alt="thanks-keanu" width="64"> |
 | `:the-great-wave:` | <img src="emojis/the-great-wave.png" alt="the-great-wave" width="64"> |
 | `:this-is-fine-animated:` | <img src="emojis/this-is-fine-animated.gif" alt="this-is-fine-animated" width="64"> |
 | `:this-is-the-way:` | <img src="emojis/this-is-the-way.png" alt="this-is-the-way" width="64"> |
