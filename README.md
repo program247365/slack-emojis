@@ -8,10 +8,12 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
 |------|-------|
+| :.DS_Store: | <img src="emojis/.DS_Store" alt=".DS_Store" width="64"> |
 | :100: | <img src="emojis/100.png" alt="100" width="64"> |
 | :acknowledged: | <img src="emojis/acknowledged.jpg" alt="acknowledged" width="64"> |
 | :afk: | <img src="emojis/afk.png" alt="afk" width="64"> |
@@ -76,7 +78,6 @@
 | :test-tube: | <img src="emojis/test-tube.png" alt="test-tube" width="64"> |
 | :thank-you: | <img src="emojis/thank-you.jpg" alt="thank-you" width="64"> |
 | :this-is-fine-animated: | <img src="emojis/this-is-fine-animated.gif" alt="this-is-fine-animated" width="64"> |
-| :this-is-fine-fire: | <img src="emojis/this-is-fine-fire.gif" alt="this-is-fine-fire" width="64"> |
 | :this-is-the-way: | <img src="emojis/this-is-the-way.png" alt="this-is-the-way" width="64"> |
 | :this-right-here: | <img src="emojis/this-right-here.gif" alt="this-right-here" width="64"> |
 | :this: | <img src="emojis/this.gif" alt="this" width="64"> |
