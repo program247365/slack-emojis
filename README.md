@@ -41,6 +41,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -108,6 +109,7 @@
 | `:interesting:` | <img src="emojis/interesting.gif" alt="interesting" width="64"> |
 | `:jammin-cat:` | <img src="emojis/jammin-cat.gif" alt="jammin-cat" width="64"> |
 | `:kevin-r:` | <img src="emojis/kevin-r.png" alt="kevin-r" width="64"> |
+| `:kevin-sweating:` | <img src="emojis/kevin-sweating.gif" alt="kevin-sweating" width="64"> |
 | `:kevin-wave:` | <img src="emojis/kevin-wave.gif" alt="kevin-wave" width="64"> |
 | `:kids:` | <img src="emojis/kids.png" alt="kids" width="64"> |
 | `:letsgo:` | <img src="emojis/letsgo.gif" alt="letsgo" width="64"> |
