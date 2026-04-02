@@ -40,6 +40,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -163,7 +164,6 @@
 | `:thanks-keanu:` | <img src="emojis/thanks-keanu.gif" alt="thanks-keanu" width="64"> |
 | `:the-great-wave:` | <img src="emojis/the-great-wave.png" alt="the-great-wave" width="64"> |
 | `:this-is-fine-animated:` | <img src="emojis/this-is-fine-animated.gif" alt="this-is-fine-animated" width="64"> |
-| `:this-is-fine-fire:` | <img src="emojis/this-is-fine-fire.gif" alt="this-is-fine-fire" width="64"> |
 | `:this-is-the-way:` | <img src="emojis/this-is-the-way.png" alt="this-is-the-way" width="64"> |
 | `:this-right-here:` | <img src="emojis/this-right-here.gif" alt="this-right-here" width="64"> |
 | `:this:` | <img src="emojis/this.gif" alt="this" width="64"> |
