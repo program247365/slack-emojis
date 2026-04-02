@@ -25,6 +25,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -147,4 +148,5 @@
 | `:watchin:` | <img src="emojis/watchin.jpg" alt="watchin" width="64"> |
 | `:windows-computer:` | <img src="emojis/windows-computer.png" alt="windows-computer" width="64"> |
 | `:worm-hole:` | <img src="emojis/worm-hole.jpg" alt="worm-hole" width="64"> |
+| `:wow-amaze:` | <img src="emojis/wow-amaze.gif" alt="wow-amaze" width="64"> |
 | `:yes:` | <img src="emojis/yes.png" alt="yes" width="64"> |
