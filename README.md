@@ -22,6 +22,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
