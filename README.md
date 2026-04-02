@@ -38,6 +38,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -97,7 +98,6 @@
 | `:furby-party:` | <img src="emojis/furby-party.gif" alt="furby-party" width="64"> |
 | `:galaxy-brain:` | <img src="emojis/galaxy-brain.jpg" alt="galaxy-brain" width="64"> |
 | `:gandalf-nod:` | <img src="emojis/gandalf-nod.gif" alt="gandalf-nod" width="64"> |
-| `:gandalf-parrot:` | <img src="emojis/gandalf-parrot.gif" alt="gandalf-parrot" width="64"> |
 | `:hackerman:` | <img src="emojis/hackerman.jpg" alt="hackerman" width="64"> |
 | `:high-five-animated:` | <img src="emojis/high-five-animated.gif" alt="high-five-animated" width="64"> |
 | `:hmmm-yes:` | <img src="emojis/hmmm-yes.gif" alt="hmmm-yes" width="64"> |
