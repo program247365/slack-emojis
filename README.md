@@ -24,6 +24,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -39,6 +40,7 @@
 | `:awesome:` | <img src="emojis/awesome.png" alt="awesome" width="64"> |
 | `:aws-is-fine:` | <img src="emojis/aws-is-fine.gif" alt="aws-is-fine" width="64"> |
 | `:aww-yeah:` | <img src="emojis/aww-yeah.gif" alt="aww-yeah" width="64"> |
+| `:beer-intensifies:` | <img src="emojis/beer-intensifies.gif" alt="beer-intensifies" width="64"> |
 | `:blobs-hug:` | <img src="emojis/blobs-hug.png" alt="blobs-hug" width="64"> |
 | `:bongo-cat-boom:` | <img src="emojis/bongo-cat-boom.gif" alt="bongo-cat-boom" width="64"> |
 | `:boo-ghost-animated:` | <img src="emojis/boo-ghost-animated.gif" alt="boo-ghost-animated" width="64"> |
@@ -68,6 +70,7 @@
 | `:face-palm:` | <img src="emojis/face-palm.png" alt="face-palm" width="64"> |
 | `:face-palm02:` | <img src="emojis/face-palm02.gif" alt="face-palm02" width="64"> |
 | `:feelsgood:` | <img src="emojis/feelsgood.png" alt="feelsgood" width="64"> |
+| `:furby-party:` | <img src="emojis/furby-party.gif" alt="furby-party" width="64"> |
 | `:gandalf-nod:` | <img src="emojis/gandalf-nod.gif" alt="gandalf-nod" width="64"> |
 | `:gandalf-parrot:` | <img src="emojis/gandalf-parrot.gif" alt="gandalf-parrot" width="64"> |
 | `:hackerman:` | <img src="emojis/hackerman.jpg" alt="hackerman" width="64"> |
@@ -78,6 +81,7 @@
 | `:interesting:` | <img src="emojis/interesting.gif" alt="interesting" width="64"> |
 | `:jammin-cat:` | <img src="emojis/jammin-cat.gif" alt="jammin-cat" width="64"> |
 | `:kevin-r:` | <img src="emojis/kevin-r.png" alt="kevin-r" width="64"> |
+| `:kevin-wave:` | <img src="emojis/kevin-wave.gif" alt="kevin-wave" width="64"> |
 | `:kids:` | <img src="emojis/kids.png" alt="kids" width="64"> |
 | `:letsgo:` | <img src="emojis/letsgo.gif" alt="letsgo" width="64"> |
 | `:lol:` | <img src="emojis/lol.png" alt="lol" width="64"> |
@@ -124,6 +128,7 @@
 | `:slow-clap:` | <img src="emojis/slow-clap.gif" alt="slow-clap" width="64"> |
 | `:snap-point:` | <img src="emojis/snap-point.gif" alt="snap-point" width="64"> |
 | `:sus-eyes:` | <img src="emojis/sus-eyes.png" alt="sus-eyes" width="64"> |
+| `:sus-intensifies:` | <img src="emojis/sus-intensifies.gif" alt="sus-intensifies" width="64"> |
 | `:terminal:` | <img src="emojis/terminal.png" alt="terminal" width="64"> |
 | `:terminator:` | <img src="emojis/terminator.png" alt="terminator" width="64"> |
 | `:test-tube:` | <img src="emojis/test-tube.png" alt="test-tube" width="64"> |
