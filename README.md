@@ -19,11 +19,15 @@
 
 
 
+
+
+
 ## Emoji Collection
 
 | Name | Emoji |
 |------|-------|
 | `:100:` | <img src="emojis/100.png" alt="100" width="64"> |
+| `:3d-cube:` | <img src="emojis/3d-cube.gif" alt="3d-cube" width="64"> |
 | `:acknowledged:` | <img src="emojis/acknowledged.jpg" alt="acknowledged" width="64"> |
 | `:afk:` | <img src="emojis/afk.png" alt="afk" width="64"> |
 | `:ahhh-scary:` | <img src="emojis/ahhh-scary.gif" alt="ahhh-scary" width="64"> |
@@ -34,17 +38,26 @@
 | `:aws-is-fine:` | <img src="emojis/aws-is-fine.gif" alt="aws-is-fine" width="64"> |
 | `:aww-yeah:` | <img src="emojis/aww-yeah.gif" alt="aww-yeah" width="64"> |
 | `:blobs-hug:` | <img src="emojis/blobs-hug.png" alt="blobs-hug" width="64"> |
+| `:bongo-cat-boom:` | <img src="emojis/bongo-cat-boom.gif" alt="bongo-cat-boom" width="64"> |
 | `:boo-ghost-animated:` | <img src="emojis/boo-ghost-animated.gif" alt="boo-ghost-animated" width="64"> |
 | `:boom:` | <img src="emojis/boom.gif" alt="boom" width="64"> |
+| `:bugcat-money:` | <img src="emojis/bugcat-money.gif" alt="bugcat-money" width="64"> |
+| `:burning-money:` | <img src="emojis/burning-money.gif" alt="burning-money" width="64"> |
+| `:call-hr:` | <img src="emojis/call-hr.png" alt="call-hr" width="64"> |
 | `:cat-clap:` | <img src="emojis/cat-clap.gif" alt="cat-clap" width="64"> |
 | `:celery-man-animated:` | <img src="emojis/celery-man-animated.gif" alt="celery-man-animated" width="64"> |
 | `:chatgpt:` | <img src="emojis/chatgpt.webp" alt="chatgpt" width="64"> |
 | `:checked-animated:` | <img src="emojis/checked-animated.gif" alt="checked-animated" width="64"> |
 | `:checked:` | <img src="emojis/checked.gif" alt="checked" width="64"> |
 | `:chompy:` | <img src="emojis/chompy.gif" alt="chompy" width="64"> |
+| `:clap-clap:` | <img src="emojis/clap-clap.gif" alt="clap-clap" width="64"> |
 | `:clown-face:` | <img src="emojis/clown-face.png" alt="clown-face" width="64"> |
+| `:coffee-dance-cup:` | <img src="emojis/coffee-dance-cup.gif" alt="coffee-dance-cup" width="64"> |
+| `:coffee-fill:` | <img src="emojis/coffee-fill.gif" alt="coffee-fill" width="64"> |
+| `:coffee-fire:` | <img src="emojis/coffee-fire.gif" alt="coffee-fire" width="64"> |
 | `:confused-dog:` | <img src="emojis/confused-dog.gif" alt="confused-dog" width="64"> |
 | `:copy-that:` | <img src="emojis/copy-that.png" alt="copy-that" width="64"> |
+| `:css-is-awesome:` | <img src="emojis/css-is-awesome.png" alt="css-is-awesome" width="64"> |
 | `:daftpunk1:` | <img src="emojis/daftpunk1.gif" alt="daftpunk1" width="64"> |
 | `:daftpunk2:` | <img src="emojis/daftpunk2.gif" alt="daftpunk2" width="64"> |
 | `:daftpunk3:` | <img src="emojis/daftpunk3.gif" alt="daftpunk3" width="64"> |
@@ -68,12 +81,15 @@
 | `:lol:` | <img src="emojis/lol.png" alt="lol" width="64"> |
 | `:lolsob:` | <img src="emojis/lolsob.png" alt="lolsob" width="64"> |
 | `:lumon:` | <img src="emojis/lumon.png" alt="lumon" width="64"> |
+| `:money-rain:` | <img src="emojis/money-rain.gif" alt="money-rain" width="64"> |
 | `:muscle-right:` | <img src="emojis/muscle-right.png" alt="muscle-right" width="64"> |
 | `:neovim:` | <img src="emojis/neovim.png" alt="neovim" width="64"> |
 | `:nerd:` | <img src="emojis/nerd.png" alt="nerd" width="64"> |
 | `:nextjs:` | <img src="emojis/nextjs.png" alt="nextjs" width="64"> |
 | `:nice:` | <img src="emojis/nice.png" alt="nice" width="64"> |
+| `:nod-cry:` | <img src="emojis/nod-cry.gif" alt="nod-cry" width="64"> |
 | `:nod:` | <img src="emojis/nod.gif" alt="nod" width="64"> |
+| `:one-sec-cooking:` | <img src="emojis/one-sec-cooking.png" alt="one-sec-cooking" width="64"> |
 | `:oof:` | <img src="emojis/oof.gif" alt="oof" width="64"> |
 | `:openai-animated:` | <img src="emojis/openai-animated.gif" alt="openai-animated" width="64"> |
 | `:pants-on-fire:` | <img src="emojis/pants-on-fire.gif" alt="pants-on-fire" width="64"> |
@@ -85,7 +101,10 @@
 | `:parrot-party:` | <img src="emojis/parrot-party.gif" alt="parrot-party" width="64"> |
 | `:parrot-ultra-fast:` | <img src="emojis/parrot-ultra-fast.gif" alt="parrot-ultra-fast" width="64"> |
 | `:party-cat-dance:` | <img src="emojis/party-cat-dance.gif" alt="party-cat-dance" width="64"> |
+| `:party-wizard:` | <img src="emojis/party-wizard.gif" alt="party-wizard" width="64"> |
+| `:patrick-snow:` | <img src="emojis/patrick-snow.gif" alt="patrick-snow" width="64"> |
 | `:point-up:` | <img src="emojis/point-up.png" alt="point-up" width="64"> |
+| `:relatable:` | <img src="emojis/relatable.png" alt="relatable" width="64"> |
 | `:remix:` | <img src="emojis/remix.png" alt="remix" width="64"> |
 | `:review:` | <img src="emojis/review.png" alt="review" width="64"> |
 | `:robot-cry:` | <img src="emojis/robot-cry.png" alt="robot-cry" width="64"> |
@@ -101,6 +120,8 @@
 | `:slack-old-man-yells-at:` | <img src="emojis/slack-old-man-yells-at.png" alt="slack-old-man-yells-at" width="64"> |
 | `:slack:` | <img src="emojis/slack.png" alt="slack" width="64"> |
 | `:slow-clap:` | <img src="emojis/slow-clap.gif" alt="slow-clap" width="64"> |
+| `:snap-point:` | <img src="emojis/snap-point.gif" alt="snap-point" width="64"> |
+| `:sus-eyes:` | <img src="emojis/sus-eyes.png" alt="sus-eyes" width="64"> |
 | `:terminal:` | <img src="emojis/terminal.png" alt="terminal" width="64"> |
 | `:terminator:` | <img src="emojis/terminator.png" alt="terminator" width="64"> |
 | `:test-tube:` | <img src="emojis/test-tube.png" alt="test-tube" width="64"> |
