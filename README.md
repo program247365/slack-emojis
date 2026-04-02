@@ -30,6 +30,8 @@
 
 
 
+
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -71,7 +73,6 @@
 | `:copy-that:` | <img src="emojis/copy-that.png" alt="copy-that" width="64"> |
 | `:cry-a-lot:` | <img src="emojis/cry-a-lot.png" alt="cry-a-lot" width="64"> |
 | `:css-is-awesome:` | <img src="emojis/css-is-awesome.png" alt="css-is-awesome" width="64"> |
-| `:css-is-awseome:` | <img src="emojis/css-is-awseome.png" alt="css-is-awseome" width="64"> |
 | `:daftpunk1:` | <img src="emojis/daftpunk1.gif" alt="daftpunk1" width="64"> |
 | `:daftpunk2:` | <img src="emojis/daftpunk2.gif" alt="daftpunk2" width="64"> |
 | `:daftpunk3:` | <img src="emojis/daftpunk3.gif" alt="daftpunk3" width="64"> |
