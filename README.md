@@ -35,6 +35,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -81,12 +82,16 @@
 | `:daftpunk3:` | <img src="emojis/daftpunk3.gif" alt="daftpunk3" width="64"> |
 | `:deployed:` | <img src="emojis/deployed.png" alt="deployed" width="64"> |
 | `:diamond-hands:` | <img src="emojis/diamond-hands.gif" alt="diamond-hands" width="64"> |
+| `:easter-egg:` | <img src="emojis/easter-egg.gif" alt="easter-egg" width="64"> |
+| `:elmo-snow:` | <img src="emojis/elmo-snow.gif" alt="elmo-snow" width="64"> |
+| `:escape-key:` | <img src="emojis/escape-key.gif" alt="escape-key" width="64"> |
 | `:face-palm:` | <img src="emojis/face-palm.png" alt="face-palm" width="64"> |
 | `:face-palm02:` | <img src="emojis/face-palm02.gif" alt="face-palm02" width="64"> |
 | `:feel-better:` | <img src="emojis/feel-better.png" alt="feel-better" width="64"> |
 | `:feelsgood:` | <img src="emojis/feelsgood.png" alt="feelsgood" width="64"> |
 | `:full-send:` | <img src="emojis/full-send.gif" alt="full-send" width="64"> |
 | `:furby-party:` | <img src="emojis/furby-party.gif" alt="furby-party" width="64"> |
+| `:galaxy-brain:` | <img src="emojis/galaxy-brain.jpg" alt="galaxy-brain" width="64"> |
 | `:gandalf-nod:` | <img src="emojis/gandalf-nod.gif" alt="gandalf-nod" width="64"> |
 | `:gandalf-parrot:` | <img src="emojis/gandalf-parrot.gif" alt="gandalf-parrot" width="64"> |
 | `:hackerman:` | <img src="emojis/hackerman.jpg" alt="hackerman" width="64"> |
