@@ -28,6 +28,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -64,6 +65,7 @@
 | `:coffee-fill:` | <img src="emojis/coffee-fill.gif" alt="coffee-fill" width="64"> |
 | `:coffee-fire:` | <img src="emojis/coffee-fire.gif" alt="coffee-fire" width="64"> |
 | `:confused-dog:` | <img src="emojis/confused-dog.gif" alt="confused-dog" width="64"> |
+| `:cool-cat:` | <img src="emojis/cool-cat.gif" alt="cool-cat" width="64"> |
 | `:cool-doge:` | <img src="emojis/cool-doge.gif" alt="cool-doge" width="64"> |
 | `:copy-that:` | <img src="emojis/copy-that.png" alt="copy-that" width="64"> |
 | `:css-is-awesome:` | <img src="emojis/css-is-awesome.png" alt="css-is-awesome" width="64"> |
