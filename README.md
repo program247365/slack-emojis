@@ -37,6 +37,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -58,6 +59,7 @@
 | `:bongo-cat-boom:` | <img src="emojis/bongo-cat-boom.gif" alt="bongo-cat-boom" width="64"> |
 | `:boo-ghost-animated:` | <img src="emojis/boo-ghost-animated.gif" alt="boo-ghost-animated" width="64"> |
 | `:boom:` | <img src="emojis/boom.gif" alt="boom" width="64"> |
+| `:brb:` | <img src="emojis/brb.gif" alt="brb" width="64"> |
 | `:bugcat-money:` | <img src="emojis/bugcat-money.gif" alt="bugcat-money" width="64"> |
 | `:burning-money:` | <img src="emojis/burning-money.gif" alt="burning-money" width="64"> |
 | `:call-hr:` | <img src="emojis/call-hr.png" alt="call-hr" width="64"> |
