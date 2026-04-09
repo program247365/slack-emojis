@@ -43,6 +43,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -117,6 +118,7 @@
 | `:lol:` | <img src="emojis/lol.png" alt="lol" width="64"> |
 | `:lolsob:` | <img src="emojis/lolsob.png" alt="lolsob" width="64"> |
 | `:lumon:` | <img src="emojis/lumon.png" alt="lumon" width="64"> |
+| `:mario-coin:` | <img src="emojis/mario-coin.gif" alt="mario-coin" width="64"> |
 | `:money-rain:` | <img src="emojis/money-rain.gif" alt="money-rain" width="64"> |
 | `:muscle-right:` | <img src="emojis/muscle-right.png" alt="muscle-right" width="64"> |
 | `:neovim:` | <img src="emojis/neovim.png" alt="neovim" width="64"> |
