@@ -45,6 +45,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -101,6 +102,7 @@
 | `:face-palm02:` | <img src="emojis/face-palm02.gif" alt="face-palm02" width="64"> |
 | `:feel-better:` | <img src="emojis/feel-better.png" alt="feel-better" width="64"> |
 | `:feelsgood:` | <img src="emojis/feelsgood.png" alt="feelsgood" width="64"> |
+| `:forever-alone:` | <img src="emojis/forever-alone.png" alt="forever-alone" width="64"> |
 | `:full-send:` | <img src="emojis/full-send.gif" alt="full-send" width="64"> |
 | `:furby-party:` | <img src="emojis/furby-party.gif" alt="furby-party" width="64"> |
 | `:galaxy-brain:` | <img src="emojis/galaxy-brain.jpg" alt="galaxy-brain" width="64"> |
