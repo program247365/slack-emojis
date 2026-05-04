@@ -46,6 +46,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -78,6 +79,7 @@
 | `:checked:` | <img src="emojis/checked.gif" alt="checked" width="64"> |
 | `:chompy:` | <img src="emojis/chompy.gif" alt="chompy" width="64"> |
 | `:clap-clap:` | <img src="emojis/clap-clap.gif" alt="clap-clap" width="64"> |
+| `:claude-color:` | <img src="emojis/claude-color.gif" alt="claude-color" width="64"> |
 | `:click-intensifies:` | <img src="emojis/click-intensifies.gif" alt="click-intensifies" width="64"> |
 | `:clown-face:` | <img src="emojis/clown-face.png" alt="clown-face" width="64"> |
 | `:coffee-dance-cup:` | <img src="emojis/coffee-dance-cup.gif" alt="coffee-dance-cup" width="64"> |
