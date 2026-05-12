@@ -47,6 +47,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -62,6 +63,7 @@
 | `:awesome:` | <img src="emojis/awesome.png" alt="awesome" width="64"> |
 | `:aws-is-fine:` | <img src="emojis/aws-is-fine.gif" alt="aws-is-fine" width="64"> |
 | `:aww-yeah:` | <img src="emojis/aww-yeah.gif" alt="aww-yeah" width="64"> |
+| `:ba-dum-tsss:` | <img src="emojis/ba-dum-tsss.gif" alt="ba-dum-tsss" width="64"> |
 | `:beer-intensifies:` | <img src="emojis/beer-intensifies.gif" alt="beer-intensifies" width="64"> |
 | `:blob-sad:` | <img src="emojis/blob-sad.gif" alt="blob-sad" width="64"> |
 | `:blobs-hug:` | <img src="emojis/blobs-hug.png" alt="blobs-hug" width="64"> |
