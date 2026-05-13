@@ -48,6 +48,7 @@
 
 
 
+
 ## Emoji Collection
 
 | Name | Emoji |
@@ -101,6 +102,7 @@
 | `:easter-egg:` | <img src="emojis/easter-egg.gif" alt="easter-egg" width="64"> |
 | `:elmo-snow:` | <img src="emojis/elmo-snow.gif" alt="elmo-snow" width="64"> |
 | `:escape-key:` | <img src="emojis/escape-key.gif" alt="escape-key" width="64"> |
+| `:extra-spicy:` | <img src="emojis/extra-spicy.png" alt="extra-spicy" width="64"> |
 | `:extreme-teamwork:` | <img src="emojis/extreme-teamwork.gif" alt="extreme-teamwork" width="64"> |
 | `:face-palm:` | <img src="emojis/face-palm.png" alt="face-palm" width="64"> |
 | `:face-palm02:` | <img src="emojis/face-palm02.gif" alt="face-palm02" width="64"> |
